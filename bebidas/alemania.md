@@ -8,3 +8,10 @@ Alemania es reconocida mundialmente por su cultura cervecera, pero también cuen
 - **Glühwein**: Vino caliente con especias, típico de los mercados navideños.
 - **Schnaps**: Licor fuerte destilado de frutas o hierbas, común en zonas rurales.
 - **Jägermeister**: Licor de hierbas muy conocido a nivel internacional.
+
+### Bebidas sin alcohol
+
+- **Apfelschorle**: Mezcla de jugo de manzana con agua con gas, muy refrescante.
+- **Spezi**: Refresco que mezcla cola y naranja.
+- **Tee (té)**: En el norte del país es común tomar té negro con azúcar y nata.
+- **Agua con gas (Sprudelwasser)**: Muy popular como acompañamiento de las comidas.
