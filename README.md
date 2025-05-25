@@ -11,11 +11,11 @@ Aquí encontrarás información sobre las bebidas típicas de diferentes países
 ---
 
 ## PAÍSES INCLUIDOS
-- [Brasil 🇧🇷](bebidas/brasil.md)  
-- [Alemania 🇩🇪](bebidas/alemania.md)  
-- [Japón 🇯🇵](bebidas/japon.md)  
-- [México 🇲🇽](bebidas/mexico.md)  
-- [Italia 🇮🇹](bebidas/italia.md)  
+- [Brasil](bebidas/brasil.md)  
+- [Alemania](bebidas/alemania.md)  
+- [Japón](bebidas/japon.md)  
+- [México](bebidas/mexico.md)  
+- [Italia](bebidas/italia.md)  
 
 ---
 
