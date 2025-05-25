@@ -7,3 +7,9 @@ México tiene una rica tradición en bebidas típicas que reflejan su cultura, h
 - Mezcal
 - Pulque
 - Cerveza artesanal mexicana
+
+## Bebidas sin alcohol
+- Agua de jamaica
+- Horchata
+- Agua de tamarindo
+- Champurrado
