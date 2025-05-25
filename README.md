@@ -1,6 +1,6 @@
 
 # GUIA DE BEBIDAS INTERNACIONALES
-
+![bebidas](https://thefoodtech.com/wp-content/uploads/2023/10/bebidas-1.jpg)
 ---
 
 ## BIENVENIDO
