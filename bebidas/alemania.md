@@ -15,3 +15,7 @@ Alemania es reconocida mundialmente por su cultura cervecera, pero también cuen
 - **Spezi**: Refresco que mezcla cola y naranja.
 - **Tee (té)**: En el norte del país es común tomar té negro con azúcar y nata.
 - **Agua con gas (Sprudelwasser)**: Muy popular como acompañamiento de las comidas.
+
+### Consejos para servir o maridar
+
+Las cervezas alemanas se sirven según su tipo: las de trigo en vasos altos, las pils en copas delgadas. El Glühwein se toma caliente en invierno. El Apfelschorle acompaña muy bien comidas ligeras o puede usarse como hidratante tras hacer ejercicio.
