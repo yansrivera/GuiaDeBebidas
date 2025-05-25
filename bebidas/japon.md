@@ -7,3 +7,8 @@ Japón es reconocido por sus bebidas tradicionales que incluyen tanto opciones f
 - Shochu
 - Umeshu (licor de ciruela)
 - Cerveza japonesa
+
+## Bebidas sin alcohol
+- Té verde (Matcha, Sencha)
+- Ramune (refresco japonés)
+- Agua de cebada (Mugicha)
